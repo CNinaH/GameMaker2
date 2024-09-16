@@ -1,0 +1,20 @@
+{
+  "$GMPath":"",
+  "%Name":"Path5",
+  "closed":true,
+  "kind":1,
+  "name":"Path5",
+  "parent":{
+    "name":"Level1",
+    "path":"folders/Paths/Level1.yy",
+  },
+  "points":[
+    {"speed":100.0,"x":3488.0,"y":1888.0,},
+    {"speed":100.0,"x":3872.0,"y":1888.0,},
+    {"speed":100.0,"x":3872.0,"y":1984.0,},
+    {"speed":100.0,"x":3488.0,"y":1984.0,},
+  ],
+  "precision":4,
+  "resourceType":"GMPath",
+  "resourceVersion":"2.0",
+}
